@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Azri Nabilah</h1>
-<h3 align="center">A passionate Data Science and analyst from Indonesia</h3>
-<img align="right" alt="coding" widht="400" src="https://github.com/user-attachments/assets/18f8be81-652f-4b31-9571-7f06669b88c6">
+<h3 align="center">A passionate Data Science and analyst </h3>
+<img align="right" alt="coding" width="200" height="200" src="https://github.com/user-attachments/assets/79f055ad-0b61-43ae-ab1b-57230545da94">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azri26&label=Profile%20views&color=0e75b6&style=flat" alt="azri26" /> </p>
 
 <h3 align="left">Connect with me:</h3>
