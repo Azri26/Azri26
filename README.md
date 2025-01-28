@@ -1,4 +1,4 @@
-![logo](https://github.com/Azri26/Azri26/blob/main/1_b29pJKZqp6Jxb3rd9QlJiw.png)
+![logo](https://github.com/Azri26/Azri26/blob/main/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 <h1 align="center">Hi 👋, I'm Azri Nabilah</h1>
 <h3 align="center">A passionate Data Science and analyst </h3>
 <img align="right" alt="coding" width="200" height="200" src="https://github.com/user-attachments/assets/79f055ad-0b61-43ae-ab1b-57230545da94">
